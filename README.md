@@ -1,6 +1,6 @@
 # EMI Calculator
 
-A Flutter Project to calculate your Monthly EMI.
+A Flutter App that calculates your Monthly EMI.
 
 ## Getting Started
 
