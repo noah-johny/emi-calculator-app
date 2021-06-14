@@ -1,6 +1,6 @@
-# emicalc
+# EMI Calculator
 
-A new Flutter project.
+A Flutter Project to calculate your Monthly EMI.
 
 ## Getting Started
 
